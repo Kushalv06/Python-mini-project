@@ -1,5 +1,5 @@
-#To try git ignore
-
+#Merge conflict
+#Lets see what happens
 def add_note():
     file=open("Notes.txt",'a')
     print()
