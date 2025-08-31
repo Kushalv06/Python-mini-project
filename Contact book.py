@@ -1,5 +1,6 @@
 # THIS IS NEW LINE 
 #Added this in github and got in vs code using pull
+#to use git config core.editor "code --wait"
 contacts=[]
 contact={}
 
