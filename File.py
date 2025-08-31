@@ -1,3 +1,5 @@
+#To try git ignore
+
 def add_note():
     file=open("Notes.txt",'a')
     print()
